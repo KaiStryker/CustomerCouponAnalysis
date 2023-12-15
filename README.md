@@ -22,4 +22,4 @@ My analysis identifies specific demographic groups that are more likely to respo
 
 
 ## View the Full Analysis
-For a detailed view of the analysis, please see the Jupyter Notebook. [Link to Jupyter Notebook]
+For a detailed view of the analysis, please see the Jupyter Notebook. [Link to Jupyter Notebook](https://github.com/KaiStryker/CustomerCouponAnalysis/blob/main/Module_5_Assignment.ipynb)
